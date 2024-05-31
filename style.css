@@ -10,14 +10,20 @@
   margin-left: auto;
   margin-right: auto;
 }
-
+/* FONTS */
 .xanh-mono-regular-italic {
   font-family: "Xanh Mono", monospace;
   font-weight: 400;
   font-style: italic;
 }
 
-
+.spline-sans-mono-<uniquifier> {
+  font-family: "Spline Sans Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+/* FONTS END */
 * {
   margin: 0;
   padding: 0;
@@ -38,9 +44,19 @@ h3 {
   font-family: "Xanh Mono", monospace;
 
 }
+p {
+  font-family: "Spline Sans Mono", monospace;
+
+}
 
 
-
+#welcome {
+  height: 500px;
+  width: 500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 
 
