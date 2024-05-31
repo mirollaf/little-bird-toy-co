@@ -51,8 +51,8 @@ p {
 
 
 #welcome {
-  height: 500px;
-  width: 500px;
+  height: 700px;
+  width: 700px;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -88,3 +88,7 @@ p {
   text-decoration: none;
 }
 
+#maintitle {
+  margin-top: 2%;
+text-align: center;
+}
