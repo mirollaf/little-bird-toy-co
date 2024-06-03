@@ -92,3 +92,15 @@ p {
   margin-top: 2%;
 text-align: center;
 }
+
+#bg {
+  background-image: url("images/unnamed.jpg"); 
+  height: 800px; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; 
+  background-color: #cecece;
+  background-blend-mode: overlay;
+
+}
+
