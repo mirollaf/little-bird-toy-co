@@ -49,7 +49,6 @@ p {
 
 }
 
-
 #welcome {
   height: 300px;
   width: 800px;
@@ -57,9 +56,6 @@ p {
   margin-left: auto;
   margin-right: auto;
 }
-
-
-
 
 .container {
   max-width: 1200px;
@@ -102,4 +98,8 @@ text-align: center;
   background-color: #cecece;
   background-blend-mode: overlay;
 
+}
+
+body.bodyone {
+  background-image: url("images/");
 }
