@@ -115,14 +115,15 @@ body.bodyone {
 .product-carousel {
   display: flex;
   gap: 20px;
+  text-align: center;
 }
 
 .product-card {
   background-color: #fff;
   border: 1px solid #ddd;
   border-radius: 5px;
-  width: 200px;
-  padding: 20px;
+  width: 500px;
+  padding: 120px;
   box-shadow: 0 2px 5px rgba(245, 159, 62, 0.1);
   text-align: center;
   flex: 0 0 auto;
@@ -130,8 +131,8 @@ body.bodyone {
 
 .product-card img {
   max-width: 100%;
-  border-bottom: 1px solid #ddd;
-  margin-bottom: 10px;
+  border-bottom: 30px solid #ddd;
+  margin-bottom: 30px;
 }
 
 .product-card h2 {
