@@ -1,3 +1,9 @@
+body {
+  background-color: rgba(236, 193, 151, 0.753);
+  margin: 0;
+  padding: 0;
+}
+
 #title {
   text-align: center;
   font-family: "Xanh Mono", monospace;
@@ -123,7 +129,7 @@ body.bodyone {
   border: 1px solid #ddd;
   border-radius: 5px;
   width: 500px;
-  padding: 120px;
+  padding: 90px;
   box-shadow: 0 2px 5px rgba(245, 159, 62, 0.1);
   text-align: center;
   flex: 0 0 auto;
@@ -178,3 +184,5 @@ body.bodyone {
 .next-btn {
   right: 0;
 }
+
+
