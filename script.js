@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', () => {
             price: 49.99,
             image: 'images/train2.jpg',
             description: 'Embark on a charming journey with this beautiful handcrafted wooden train set. Engine and three interchangeable cars boast intricate details made from real beech wood. Large size (84cm L x 11cm H x 13cm W) with moving wheels and a fully ecological design.',
-            rating: '⭐⭐⭐⭐',
+            rating: '⭐⭐⭐⭐⭐',
         },
         {
             id: 4,
@@ -47,11 +47,11 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         {
             id: 6,
-            name: 'COMING SOON',
-            price: $$$,
+            name: 'Product 6',
+            price: 19.99,
             image: '',
-            description: '',
-           rating: '',
+            description: 'COMING SOON',
+            rating: '',
 
         },
     ];
