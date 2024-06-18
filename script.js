@@ -1,3 +1,4 @@
+
 document.addEventListener('DOMContentLoaded', () => {
     const products = [
         {
@@ -5,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
             name: 'Wooden Car',
             price: 29.99,
             image: 'images/car1.jpg',
-            description: 'This heirloom-quality wooden car is a timeless treasure. Handcrafted from domestic and exotic hardwoods with a clear lacquer finish, this unique car will inspire generations of imaginative play. Please note potential choking hazards for small children.', 
+            description: 'This heirloom-quality wooden car is a timeless treasure. Handcrafted from domestic and exotic hardwoods with a clear lacquer finish, this unique car will inspire generations of imaginative play. Please note potential choking hazards for small children.',
 
 
         },
@@ -95,7 +96,6 @@ function moveCarousel(direction) {
 }
 
 
-
-- add age
-- add background
--make size responsive 
+// - add age
+// - add background
+// -make size responsive 
