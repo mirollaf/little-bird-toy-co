@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', () => {
             price: 39.99,
             image: 'images/plane1.jpg',
             description: 'Soar through imaginative skies with this classic wooden airplane. Handcrafted from sustainable Baltic birch wood with a safe, natural harvest finish and a spinning propeller. Measures 3.5"H x 7"L x 7"W.',
-            rating: '⭐⭐⭐⭐⭐',
+            rating: '⭐⭐⭐⭐',
 
         },
         {
@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', () => {
             price: 49.99,
             image: 'images/train2.jpg',
             description: 'Embark on a charming journey with this beautiful handcrafted wooden train set. Engine and three interchangeable cars boast intricate details made from real beech wood. Large size (84cm L x 11cm H x 13cm W) with moving wheels and a fully ecological design.',
-            rating: '⭐⭐⭐⭐⭐',
+            rating: '⭐⭐⭐⭐',
         },
         {
             id: 4,
@@ -47,11 +47,11 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         {
             id: 6,
-            name: 'Product 6',
-            price: 19.99,
-            image: 'https://via.placeholder.com/150',
-            description: 'Lorem Ipsum',
-            rating: '⭐⭐⭐⭐⭐',
+            name: 'COMING SOON',
+            price: $$$,
+            image: '',
+            description: '',
+           rating: '',
 
         },
     ];
